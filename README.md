@@ -1,1 +1,1 @@
-# dibetic predection with logistic regresson
+# dibetice predection with logistic regresson
